@@ -1,1 +1,1 @@
-export const URL_INDEX = 'https://jsonplaceholder.typicode.com/'
+export const URL_INDEX = 'https://jsonplaceholder.typicode.com'
