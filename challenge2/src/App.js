@@ -34,6 +34,7 @@ function App() {
           <div className="main">
                      
             <div className="panel">
+              
               <div className="form">
                   <h1>Albums and Photo</h1>
                   <input type="number" onChange={queryChange} placeholder='Enter Album ID'/>
