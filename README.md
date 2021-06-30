@@ -3,7 +3,7 @@ This is challenge Two of zero to hundred coding it done using `React Js` to show
 ## Installation Guide
 Firstly, Clone [this](https://github.com/nahimanajz/ZeroTo100ChallengeTwo.git) repository then in your terminal
 ```
-cd challenge2
+cd ZeroTo100ChallengeTwo/challenge2
 npm install
 npm start
 
